@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T08:24:12.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.837 YaBrowser/23.9.4.837 Yowser/2.5 Safari/537.36" etag="wiYwE9dGarf0nz5EN2MM" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T08:27:10.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.837 YaBrowser/23.9.4.837 Yowser/2.5 Safari/537.36" etag="jXoXAGjU0Swh_YL_fA27" version="22.1.2" type="github">
   <diagram name="Page-1" id="FML4WFdm6DSJ3I9iHwKf">
     <mxGraphModel dx="536" dy="-3633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,15 +24,15 @@
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1362.75" y="4687" as="sourcePoint" />
-            <mxPoint x="1477" y="4687" as="targetPoint" />
+            <mxPoint x="1361.38" y="4745" as="sourcePoint" />
+            <mxPoint x="1475.63" y="4745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-8" value="" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1113.87" y="4685" width="40" height="60" as="geometry" />
+          <mxGeometry x="1112.5" y="4743" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-9" value="&lt;b&gt;Текст&lt;/b&gt;&lt;br&gt;Текст" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1098.62" y="4751" width="70.5" height="36" as="geometry" />
+          <mxGeometry x="1097.25" y="4809" width="70.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-10" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Text&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Текст&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1441" y="5261" width="215" height="125" as="geometry" />
@@ -50,8 +50,8 @@
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1364.37" y="4757" as="sourcePoint" />
-            <mxPoint x="1475.37" y="4757" as="targetPoint" />
+            <mxPoint x="1363" y="4815" as="sourcePoint" />
+            <mxPoint x="1474" y="4815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-15" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
@@ -91,13 +91,13 @@
           <mxGeometry x="1430" y="4921" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-27" value="Поток сообщений" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1301.37" y="4638" width="237" height="30" as="geometry" />
+          <mxGeometry x="1300" y="4696" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-28" value="Поток операций" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1301.37" y="4707" width="237" height="30" as="geometry" />
+          <mxGeometry x="1300" y="4765" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-qg_TUnTuqJ-js1dSiP-30" value="Объект данных, документ" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1015.37" y="4638" width="237" height="30" as="geometry" />
+          <mxGeometry x="1014" y="4696" width="237" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
